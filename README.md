@@ -1,7 +1,5 @@
 # Presidential Debate Sentimental Anaysis
 
-This was the final project from the Programming for Data Analysis course with Jose H Unpingco at UCSD, written in collaboration with Jaeyoung Kang, Anye Shi, and Jasmine Chiang in the Winter of 2020
-
 This project aims to analyze people's sentiment on Twitter as a result of the election debates.
 
 ## Datasets
