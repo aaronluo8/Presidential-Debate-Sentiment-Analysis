@@ -1,5 +1,4 @@
 # Presidential Debate Sentimental Anaysis
-ECE 143 Final Project
 
 This was the final project from the Programming for Data Analysis course with Jose H Unpingco at UCSD, written in collaboration with Jaeyoung Kang, Anye Shi, and Jasmine Chiang in the Winter of 2020
 
